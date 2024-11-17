@@ -1,1 +1,1 @@
-This repository contains SQL queries designed to analyze and extract insights from the Netflix stocks database. The database includes historical stock data, and the queries cover a range of topics from basic data retrieval to advanced analytics.
+This repository contains SQL queries designed to analyze and extract insights from the datasets. The datasets includes historical data, and the queries cover a range of topics from basic data retrieval to advanced analytics.
