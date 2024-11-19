@@ -1,1 +1,1 @@
-This repository contains SQL queries designed to analyze and extract insights from the datasets. The datasets includes historical data, and the queries cover a range of topics from basic data retrieval to advanced analytics.
+This repository contains SQL queries and some Power BI dashboards designed to analyze and extract insights from the datasets. The datasets includes historical data, and the queries cover a range of topics from basic data retrieval to advanced analytics.
